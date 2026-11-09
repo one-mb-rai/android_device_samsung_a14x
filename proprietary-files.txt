@@ -66,7 +66,7 @@ vendor/etc/gnss/ca.pem
 vendor/etc/gnss/deleteLogCommands
 vendor/etc/gnss/gps.cfg
 vendor/etc/gnss/gps.debug.cfg
-vendor/etc/gnss/gps.issuetracker.cfg
+# vendor/etc/gnss/gps.issuetracker.cfg
 vendor/etc/gnss/hardware_factors.conf
 
 # Sensors
